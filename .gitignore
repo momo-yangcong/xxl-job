@@ -5,3 +5,5 @@
 target/
 .DS_Store
 .gitattributes
+/log/
+/doc/~$XXL-JOB架构图.pptx
